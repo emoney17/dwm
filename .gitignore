@@ -1,3 +1,4 @@
 *.orig
 *.rej
 config.h
+*.png
